@@ -53,10 +53,10 @@
 
 ## 🚀 **Languages Used**
 
-- [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3Acpp+path%3ANovember+2024+GFG+SOLUTION&type=code)
-- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3AJava+path%3ANovember+2024+GFG+SOLUTION&type=code)
-- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3APython+path%3ANovember+2024+GFG+SOLUTION&type=code)
-- [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3Ac+path%3ANovember+2024+GFG+SOLUTION&type=code)
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
 <!--## 📁 **Directory Structure**
