@@ -1,4 +1,4 @@
-# *9. Indexes of Subarray Sum*
+# *9. Indexes of Subarray Sum:*
 ## Code (C++)
 
 ```cpp
